@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArjunAnand3019
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working towards my AWS machine learning certification
+- 🌱 I’m a certified AWS Machine Learning practitioner
 - 💞️ I’m looking for Internship and entry level jobs as junior Data Scientist in UK.
 - 📫 You can reach me through my mail arjunanand129@gmail.com
 
